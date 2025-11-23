@@ -1,0 +1,61 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Local settings
+.env
+*.env
+
+# App logs
+*.log
+
+# -----------------------------
+# macOS System Files
+# -----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Mac folders
+.DS_Store?
+.Trashes
+.Spotlight-V100
+.fseventsd
+
+# -----------------------------
+# Gradio and Temporary Files
+# -----------------------------
+gradio/temp/
+gradio/uploads/
+tmp/
+temp/
+*.wav
+*.mp3
+*.ogg
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# VS Code (if using)
+# -----------------------------
+.vscode/
